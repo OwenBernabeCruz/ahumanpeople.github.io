@@ -109,8 +109,8 @@ p a:hover {
 }
 
 #infografica {
-    opacity: 0.75;
-    filter: alpha(opacity=75);
+    opacity: 0.8;
+    filter: alpha(opacity=80);
     transition: 0.25s;
 }
 
