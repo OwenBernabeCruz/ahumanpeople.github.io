@@ -46,6 +46,7 @@
     .contenedor::before {left: 60px; border: medium solid hsl(225, 100%, 60%); border-width: 10px 10px 10px 0; border-color: transparent hsl(225, 100%, 60%) transparent transparent;}
     .izqui::after, .deche::after {left: 15px;}
     .deche {left: 0%;}
+    .contenido h2 {font-size: 2.5em;}
 }
 
 @media screen and (min-width: 801px) and (max-width: 1199px) {
