@@ -163,6 +163,19 @@ p a:hover {
     font-weight: 600;
 }
 
+.problem, .answer {
+    color: White;
+    margin: 2% 0px;
+}
+
+.problem {
+    background-color: var(--red);
+}
+
+.answer {
+    background-color: var(--blu);
+}
+
 .hereWeAre {
     float: left;
     margin-bottom: 2em;
